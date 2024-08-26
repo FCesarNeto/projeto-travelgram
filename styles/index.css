@@ -1,5 +1,4 @@
 @import url(global.css);
-
-p {
-  color: var(--text-color-secondary);
-}
+@import url(nav.css);
+@import url(header.css);
+@import url(main.css);
